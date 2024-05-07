@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCPROG3, Lecture 1.1.md",
+                "file": "Lecture 1.1.md",
                 "mode": "preview",
                 "source": true
               }
@@ -33,14 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Lecture 1.1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fb6e7914ccbfcca",
+  "active": "17e553d30b8b82db",
   "lastOpenFiles": [
-    "CCPROG3, Lecture 1.1.md",
-    "Untitled.md",
+    "Lecture 1.1.md",
+    "Lecture 1.2.md",
     "ABC.md",
     "Hello World!.md",
     "OOP-Notes"
