@@ -1,19 +1,3 @@
-## Overview of Java
-
-An **object-oriented** language.
-
-- **Object-oriented** implies the support of most concepts that make up an OO environment.
-- **Object-based** implies support of object creation but lacks support for higher OO concepts.
-
-A compiled and interpreted language.
-
-## Compiled Language
-
-1. We first have a high level programing language **source code**.
-2. A software program, **the compiler**, translates the high level language program into an executable machine language program.
-3. The **executable file** will be created that can be executed many times but on one type of computer only.
-
-Source Code -> Compiler -> Executable File
 
 ## Interpreted Language
 
