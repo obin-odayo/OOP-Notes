@@ -1,0 +1,4 @@
+- What is created when a class is instanced.
+- Each object is an **instance of a class** that is _distinct._
+- Has its **own copy of attributes.**
+- Can act in the same way the class was designed.

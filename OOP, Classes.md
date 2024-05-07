@@ -1,0 +1,2 @@
+- A template or blueprint from which instances of objects may be created.
+- Creation of an instance is called **instantiation**_**.**_
