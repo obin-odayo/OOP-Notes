@@ -1,0 +1,6 @@
+- Focused is on the process.
+- Instruction-driven program.
+- Functions are used to generalize code repetition.
+- Data can be typically accessed anywhere in the program
+    - As parameters, global data, or pointers.
+    - If it is not localized (e.g., declared in a function, passed as a parameter, etc.), then a function cannot call the data. In general, what stays in the function, _stays in the function._

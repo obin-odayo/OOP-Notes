@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "e04a69cfb0419492",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a1951c98dd1a29a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e553d30b8b82db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 1.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3016b89be9a89451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 1.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2510666c85d11b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 1.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daa40695757a0c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object-Oriented Programming (OOP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6add800f8d35335d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 1.1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b29f2e108c856e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfe55dc417c4ea23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "250dc9336cfec92f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8f47609bd9efb57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1458bdc423206322",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b935629251a0fb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fbc4c7baa3da8ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c468a1f95caf978",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Object-Oriented Programming (OOP).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "509f20d2d870f4a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Object-Oriented Programming (OOP).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c8b8a925b37fe29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10073329ec62eff9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Object-Oriented Programming (OOP).md"
+              }
+            }
+          },
+          {
+            "id": "c300b4f6689b6b2c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "daa40695757a0c2d",
+  "lastOpenFiles": [
+    "Lecture 1.1.md",
+    "Object-Oriented Programming (OOP).md",
+    "Procedural Programming.md",
+    "Object-Oriented vs Object-Based.md",
+    "Programming Paradigms.md",
+    "Overview of Java.md",
+    "Writing Java Applications.md",
+    "Interpreted Language.md",
+    "Java as Compiled and Interpreted.md",
+    "Compiled Language.md",
+    "ABC.md",
+    "Hello World!.md",
+    "OOP-Notes"
+  ]
+}
