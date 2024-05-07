@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2a1951c98dd1a29a",
@@ -155,13 +154,21 @@
                 "file": "Hello World!.md"
               }
             }
+          },
+          {
+            "id": "c300b4f6689b6b2c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "250dc9336cfec92f",
+  "active": "1e3f99f4737330fb",
   "lastOpenFiles": [
     "Hello World!.md",
     "ABC.md",
