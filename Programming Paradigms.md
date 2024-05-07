@@ -1,6 +1,11 @@
-An **object-oriented** language.
-
-- **Object-oriented** implies the support of most concepts that make up an OO environment.
-- **Object-based** implies support of object creation but lacks support for higher OO concepts.
-
-A compiled and interpreted language.
+- Fundamental _style_ of programming.
+    - A style of thinking about and solving a problem.
+- This is different from a programming language.
+    - Paradigm:
+        - Influences programming languages.
+        - Serves as the philosophy of the languages.
+    - Language:
+        - Influenced by programming paradigms; a combination of paradigm philosophies.
+- Examples:
+    - Procedural Programming
+    - **Object-Oriented Programming**
