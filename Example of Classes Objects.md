@@ -15,13 +15,3 @@ Key points:
 - Each instantiation is distinct from another object.
 - Each instantiation has its own attributes (the `age`).
 
-
-## Difference of Procedural and OO
-
-In procedural:
-
-- We think of what **functions** need to be implemented.
-
-In OO:
-
-- We think of what **entities** need to be implemented.
