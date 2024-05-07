@@ -41,8 +41,12 @@
             "id": "17e553d30b8b82db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hello World!.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -168,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e3f99f4737330fb",
+  "active": "250dc9336cfec92f",
   "lastOpenFiles": [
-    "Hello World!.md",
     "ABC.md",
+    "Hello World!.md",
     "OOP-Notes"
   ]
 }
